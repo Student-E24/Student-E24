@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Student-E24
 - 👀 I’m interested in WEB design
-- 🌱 I’m currently learning CS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ...
 - 😄 Pronouns: HE/HIM
