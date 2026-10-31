@@ -1,39 +1,53 @@
-# Hi, I'm Student-E24 👋
- 
-## About Me
- 
-I'm a student specializing in web development, building full-stack applications 
-and expanding my knowledge in modern technologies.
- 
-- 🎓 Currently studying **React** and modern full-stack development
-- 💻 Focused on **web development** with both frontend and backend expertise
-- 🌐 Building projects that combine clean interfaces with robust backends
-- 🚀 Co-founder of [CtrlWeb](https://ctrlweb.tech) — custom web applications and backend systems
-## Tech Stack
- 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
- 
-**Backend**  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
- 
-**Database**  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
- 
-## GitHub Stats
- 
-![Student-E24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Student-E24&show_icons=true&theme=default&hide_border=true)
- 
-## 📫 Get In Touch
- 
-Feel free to reach out for collaborations or just a chat about web development.
- 
-🌍 **[ctrlweb.tech](https://ctrlweb.tech)**
- 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ewald+%F0%9F%91%8B;CTO+at+Agape+Compliance;Co-founder+of+CtrlWeb;Building+SaaS+for+SA+property+%26+compliance" alt="Hi, I'm Ewald" />
+
+Developer from Stellenbosch, South Africa. I build SaaS products and backend systems, mostly for property, legal and compliance work.
+
+[![ctrlweb.tech](https://img.shields.io/badge/ctrlweb.tech-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ctrlweb.tech)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctrlweb.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+
+</div>
+
+## What I'm building
+
+| Project | Role | What it is |
+|---|---|---|
+| **Agape Compliance** | CTO | Compliance platform for South African conveyancing |
+| **Agape Office** | CTO | Web platform for conveyancing firms on Agape |
+| **[CtrlWeb](https://ctrlweb.tech)** | Co-founder | Web agency. Custom apps, backend systems and client sites like [4x4epictours.com](https://4x4epictours.com) |
+| **Vital 360** | Director | More soon |
+
+## How I build
+
+I follow Clean Architecture for anything meant to last, and I'd rather ship on a boring Linux VPS with Docker and Nginx than chase the newest platform. Most of what I build has to deal with POPIA and SA property law, so data handling gets designed in from day one. I wire Claude, OpenAI and DeepSeek into products where they save real work, mainly document processing.
+
+## Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,php,cs,html,css&perline=9" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql&perline=9" alt="Databases" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,cloudflare,git&perline=9" alt="Infra and tooling" />
+</p>
+
+Auth with WorkOS. AI through the Anthropic, OpenAI and DeepSeek APIs.
+
+## Studying
+
+Belgium Campus iTversity. Mathematics, linear programming, database development, statistics and web programming.
+
+## Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Student-E24&theme=tokyonight&hide_border=true" alt="GitHub streak" /><br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Student-E24&theme=tokyonight&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+</div>
+
 ---
- 
-💡 *Always learning, always building*
+
+<div align="center">
+
+Need a custom web app or backend? Talk to us at **[ctrlweb.tech](https://ctrlweb.tech)**.
+
+</div>
