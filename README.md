@@ -6,7 +6,7 @@ Developer from Stellenbosch, South Africa. I build SaaS products and backend sys
 
 [![ctrlweb.tech](https://img.shields.io/badge/ctrlweb.tech-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ctrlweb.tech)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctrlweb.tech@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewald-du-plessis-68942b303)
 
 </div>
 
@@ -14,10 +14,10 @@ Developer from Stellenbosch, South Africa. I build SaaS products and backend sys
 
 | Project | Role | What it is |
 |---|---|---|
-| **Agape Compliance** | CTO | Compliance platform for South African conveyancing |
-| **Agape Office** | CTO | Web platform for conveyancing firms on Agape |
+| **[Agape Compliance](https://agapecompliance.co.za)** | CTO | Compliance platform for South African conveyancing |
+| **Agape Office** | CTO | Custom apps that take businesses paperless and save them time and money |
 | **[CtrlWeb](https://ctrlweb.tech)** | Co-founder | Web agency. Custom apps, backend systems and client sites like [4x4epictours.com](https://4x4epictours.com) |
-| **Vital 360** | Director | More soon |
+| **[Vital 360](https://vital360.co.za)** | Director | More soon |
 
 ## How I build
 
@@ -41,7 +41,11 @@ Belgium Campus iTversity. Mathematics, linear programming, database development,
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Student-E24&theme=tokyonight&hide_border=true" alt="GitHub streak" /><br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Student-E24&theme=tokyonight&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Student-E24/Student-E24/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Student-E24/Student-E24/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Student-E24/Student-E24/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
