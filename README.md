@@ -4,6 +4,7 @@
 
 Developer from Stellenbosch, South Africa. I build SaaS products and backend systems, mostly for property, legal and compliance work.
 
+[![ewald.ctrlweb.tech](https://img.shields.io/badge/ewald.ctrlweb.tech-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ewald.ctrlweb.tech)
 [![ctrlweb.tech](https://img.shields.io/badge/ctrlweb.tech-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ctrlweb.tech)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctrlweb.tech@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewald-du-plessis-68942b303)
@@ -26,12 +27,13 @@ I follow Clean Architecture for anything meant to last, and I'd rather ship on a
 ## Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,php,cs,html,css&perline=9" alt="Languages and frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,cs,html,css&perline=9" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,vitest&perline=9" alt="Frameworks and tools" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql&perline=9" alt="Databases" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,cloudflare,git&perline=9" alt="Infra and tooling" />
 </p>
 
-Auth with WorkOS. AI through the Anthropic, OpenAI and DeepSeek APIs.
+Mobile apps in React Native with Expo. Auth with WorkOS and Clerk. AI through the Anthropic, OpenAI and DeepSeek APIs. Payments through PayFast, Paystack and Yoco.
 
 ## Studying
 
@@ -53,5 +55,7 @@ Belgium Campus iTversity. Mathematics, linear programming, database development,
 <div align="center">
 
 Need a custom web app or backend? Talk to us at **[ctrlweb.tech](https://ctrlweb.tech)**.
+
+See my own work at **[ewald.ctrlweb.tech](https://ewald.ctrlweb.tech)**.
 
 </div>
